@@ -9,4 +9,4 @@ Credit: "Global Map of Guinea Bissau © ISCGM/Direccao Geral de Geografia c Cada
 
 Contact: Direccao Geral de Geografia c Cadastro.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/guinea_bissau.png)
+E-mail: ![email](email.png)
